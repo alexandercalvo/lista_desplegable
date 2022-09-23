@@ -1,0 +1,17 @@
+.container-services{
+
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(228, 213, 213, 0.811);
+    color: white;
+}
+.item{
+    display: block;
+    background-color:rgb(205, 183, 125);
+    width: 100%;
+    text-align: center;
+}
+
+.efecto{
+    background: red ;
+}
